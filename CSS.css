@@ -70,14 +70,18 @@
     }
 
     .button-down {
-        margin-top: 50px;
+        margin-top: 30px;
         color: rgb(202, 218, 248);
         background-color: transparent;
         border: none;
-        font-size: 24px;
-        
+        font-size: 20px;
+
+        padding: 24px 30px;
     }
 
+    .button-down:hover {
+        background-color: rgb(27, 103, 141);
+    }
     .each-section-box {
         position: absolute;
         width: 1120px;
