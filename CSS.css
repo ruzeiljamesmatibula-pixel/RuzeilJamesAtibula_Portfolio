@@ -3,6 +3,6 @@ position: relative;
 width: 1440px;
 height: 1024px;
 
-background: url(image/sky.jpeg), rgba(88, 202, 237, 0.8);
+background: url("image/sky.jpeg"), rgba(88, 202, 237, 0.8);
 
 }
