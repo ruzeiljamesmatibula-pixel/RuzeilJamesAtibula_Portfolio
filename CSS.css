@@ -22,6 +22,7 @@
         border: 5px solid rgb(62, 109, 171);
         border-radius: 4000px;
         overflow: hidden;
+
     }
 
     .big-profile {
@@ -69,9 +70,11 @@
     }
 
     .button-down {
-        margin-top: 45px;
-        color: white;
-
+        margin-top: 50px;
+        color: rgb(202, 218, 248);
+        background-color: transparent;
+        border: none;
+        font-size: 24px;
         
     }
 
@@ -84,6 +87,8 @@
         border-radius: 10px;
         background-color: white;
         overflow: hidden;
+
+        scroll-margin-top: 150px;
     }
 
 
